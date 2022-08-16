@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">365 Football Betting Tips</string>
+
+  <string name="g1">This is one of the most fundamental. As a result, you will just have to decide whether the home team or the away team will win the match.
+      There is also the possibility of a draw.</string>
+<string name="g2">This wager involves betting on the total amount of balls in the nets, regardless of which team will score. Generally, a value greater than or less than 2.5 objectives is used. However, this can vary based on the teams circumstances.</string>
+<string name="g3">In this one, we wager on whether both clubs or only one will score goals. So we have both good and negative alternatives. In general, it is worthwhile to wager that both teams will score. This, however, can vary.</string>
+<string name="g4">Punctuation is actually more difficult to master. It is, nonetheless, worthwhile for people who enjoy taking risks. Because hitting the target would be satisfying. As a result, we include these types of bets in todays game predictions.</string>
+<string name="g5">What appears to be fun at first may produce complications if the bet is not placed wisely. Then read on for some pointers on how to be successful in todays game predictions.</string>
+<string name="g6">To gamble on a match, prior research on the match and its stakeholders is required. As a result, we have chosen the games with the greatest information available in todays predictions to provide you with the best betting returns.</string>
+<string name="g7">The more you bet, the less likely you are to win. As a result, avoid stockpiling. They also like to gamble on a single game. You also have more information, either about the teams or the competitions.</string>
+<string name="g8">Tips bet provides the greatest and most comprehensive reviews of the best bookmakers on the market, written both by consumers and by our online betting experts. We also offer a variety of sports betting techniques and vital online betting tips in order to maximize returns on your internet betting tips.</string>
+
+<string name="r1">All wagers are settled only on the basis of the official statistics for the extra time period.Any goals, corners, etc.
+Taken or scored during the regulation time, for example, do not count. Extra time does not help.
+consist of a penalty shootout.</string>
+    <string name="r2">When the score is deadlocked after regular and extra time have ended, a penalty shoot-out is used to determine which team is given victory in an association football match that cannot conclude in a draw.</string>
+<string name="r3">An over–under bet, sometimes known as an over/under bet, is a wager in which a sportsbook predicts a number for a statistic in a certain game, and bettors wager that the actual number in the game will be higher or lower than that figure.</string>
+<string name="r4">Removes the possibility of betting on a draw and instead allows gamblers to wager on either a home or away win. If your option is successful, your wager will win. If the contest is a tie, your stake will be returned, indicating that you did not win or lose. Predict which team will triumph. In the event of a tie, all bets are void. If a game is played,
+Bets will be worthless if the game is abandoned.</string>
+<string name="r5">In any sport where there are three possible match outcomes
+To reduce the risk of betting on an underdog or to reduce the risk of individual bets in a combination bet.
+With a Double Chance market, you can cover two of the three possible outcomes of a game.
+one wager There is also a Double Chance 1st Half market, which is settled based on the outcome of
+only the first half.</string>
+<string name="r6">A accurate score bet is a wager that forecasts a games precise end score. You lose if your correct score prediction does not exactly match the final score of the game. Given how difficult it is to forecast a games exact score, odds for a correct score bet are frequently 10:1 or better.
+Predict the precise score of the match by selecting from the available outcomes. There is another option.
+This market has the following options: Exact score 1st Half - you must guess the score of the first half.</string>
+    <string name="r7">The line in a 3W Handicap is established so that there can also be a draw outcome, giving you three options.
+potential wagers Bets are settled based on the ultimate outcome. There is another choice here.
+Market: 1st Half 3 W Handicap, which is decided based on the results of the first half only.
+As an example:
+Handicap (-2) - You will win if your team wins the match by three goals or more.
+Tie (-2) - You win if the team with the (-2) handicap wins the game by exactly two goals.
+difference. Handicap (+2) - If your team loses, draws, or wins by one goal, you will win.</string>
+<string name="r8">Predict whether a player will score first, last, or at any time during the encounter. Every effort is made to provide
+pricing for all potential players However, players who were not originally quoted will be considered winners.
+If they score the first or last goal. Own goals are ignored for the sake of settlement. If you have your own
+When a goal is scored, the prior or next goal (if any) is taken into account. If only own goals are scored in a game, the score will be recorded as no Goalscorer
+settlement objectives.</string>
+
+<string name="about">Publications on statistical models for football forecasts began in the 1990s, however Moroney developed the first model far earlier, in 1956, when he published his first statistical study of soccer match results. Both the Poisson distribution and the negative binomial distribution fit the results of football games, according to his analysis. Reep and Benjamin successfully used negative binomial distribution to examine the series of ball passing between players during football matches in 1968. They enhanced this strategy in 1971, and Hill demonstrated in 1974 that soccer game outcomes can be predicted and are not only determined by chance.
+</string>
+    <string name="about1">Michael Maher created the first model for forecasting the outcomes of football matches between teams of varying ability levels in 1982. The goals scored by the opponents during the game are drawn from the Poisson distribution, according to his hypothesis. The model parameters are established by the differential in offensive and defensive skills, which is adjusted for home field advantage. Caurneya and Carron described the strategies for modeling the home field advantage factor in a 1992 publication. Knorr-Held investigated the time-dependence of team strengths in 1999. He ranked football teams using a recursive Bayesian estimate, which was more accurate than traditional average data soccer prediction.</string>
+<string name="about_title">HISTORY OF FOOTBALL BETTING</string>
+
+    <string name="gd1">Methods of Football Prediction</string>
+    <string name="gd2">Rating for Time Independent Least Squares</string>
+    <string name="gd3">Arbitrage betting</string>
+    <string name="gd4">Value betting</string>
+    <string name="gd5">Statistics-based football betting system</string>
+
+    <string name="gd01"> All prediction algorithms can be classified based on tournament type, time dependency, and regression methodology. Football prediction systems differ between round-robin and knockout competitions. Diego Kuonens article summarizes the methods for Knockout competition.</string>
+<string name="gd02">This system attempts to assign a continually scaled rating value to each team in the event, with the strongest team receiving the highest rating. The method assumes that the rating assigned to rival teams is proportional to the outcome of each match.</string>
+<string name="gd03">Arbitrage betting is the simplest and most consistent betting approach for generating a guaranteed return on football. This betting strategy is centered on identifying incorrect odds that do not represent the true possibility of the outcome and covering the opposite outcome on sharp, correct odds.</string>
+<string name="gd04">Arbitrage betting and value betting are both based on the same basic principle and method. As smart bettors, our goal is to locate markets on football matches where bookmakers are offering incorrect odds.
+This means that they are giving odds that are greater than the true likelihood of winning. You should wager on such betting opportunities whenever you come across them.</string>
+<string name="gd05">Bookmakers calculate odds using a database of prior data and every accessible piece of information. The amount of information that bookies receive varies.
+Winning football bets based on statistics is only achievable if you can show that your understanding of the game and players is superior.
+Bookmakers lack the resources to react to every new trend and piece of information for every available match. Following the game live could provide you an advantage in football betting. Taking action while the bookmaker is slow.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_screen">splash_screen</string>
+    <string name="back_button">back_button</string>
+    <string name="button">button</string>
+    <string name="image_button">image_button</string>
+
+
+</resources>

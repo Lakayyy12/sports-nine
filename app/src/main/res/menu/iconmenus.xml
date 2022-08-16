@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="HOME"
+        android:iconTint="@color/black"/>
+
+    <item android:id="@+id/menu_rules"
+        android:icon="@drawable/ic_baseline_auto_stories_24"
+        android:title="RULES"
+        android:iconTint="@color/black"/>
+
+    <item android:id="@+id/menu_guide"
+        android:icon="@drawable/ic_baseline_back_hand_24"
+        android:title="GUIDE"
+        android:iconTint="@color/black" />
+
+        <item android:id="@+id/menu_about"
+            android:icon="@drawable/ic_baseline_error_outline_24"
+            android:title="ABOUT"
+            android:iconTint="@color/black"/>
+
+    </group>
+
+    </menu>
+

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView android:background="@drawable/bg"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FragmentHome"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/customborder3"
+        android:src="@drawable/banner111"
+        android:scaleType="fitXY"/>
+
+    <Button
+        android:id="@+id/tepone"
+        android:text="Match result"
+        android:layout_marginTop="60dp"
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_height="65dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/tabbar1"/>
+
+    <Button
+        android:id="@+id/teptwo"
+        android:text="Total Goals"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="65dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/tabbar1"/>
+
+    <Button
+        android:id="@+id/tepthree"
+        android:text="Both teams score"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="65dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/tabbar1"/>
+
+    <Button
+        android:id="@+id/tepfour"
+        android:text="Correct score"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="65dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/tabbar1"/>
+
+    <Button
+        android:id="@+id/tepfive"
+        android:text="Soccer betting tips"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_height="65dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/tabbar1"/>
+
+    <Button
+        android:id="@+id/tepsix"
+        android:text="Search long before"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="65dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/tabbar1"/>
+
+    <Button
+        android:id="@+id/tepseven"
+        android:text="Prefer individual bets"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="65dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/tabbar1"/>
+
+    <Button
+        android:id="@+id/tepeight"
+        android:text="The basis for your sports betting"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        android:layout_width="match_parent"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="70dp"
+        app:backgroundTint="@null"
+        android:background="@drawable/tabbar1"/>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
